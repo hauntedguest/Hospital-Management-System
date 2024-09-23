@@ -15,6 +15,7 @@
 
 import mongoose from 'mongoose';
 
+
 const mongoUrl = 'mongodb://localhost:27017';
 
 export const dbConnection = () => {
