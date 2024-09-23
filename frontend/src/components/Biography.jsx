@@ -11,26 +11,12 @@ const Biography = ({imageUrl}) => {
           <p>Biography</p>
           <h3>Who We Are</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+          JDR Medical Institute stands as a leader in healthcare, offering exceptional patient-centered care and innovative medical solutions. Our team of skilled professionals ensures personalized and comprehensive treatment across various specialties, from advanced diagnostics to cutting-edge therapies.
           </p>
-          <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
+          Our state-of-the-art facilities, equipped with the latest technology, enable precise and efficient medical interventions. We actively contribute to medical research and clinical trials, advancing the field of healthcare.At JDR Medical Institute, we prioritize trust and collaboration with patients, fostering open communication and involving them in their treatment plans. Our commitment to excellence, integrity, and continuous improvement sets us apart as a leading healthcare institution.
           </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          
         </div>
       </div>
     </>
